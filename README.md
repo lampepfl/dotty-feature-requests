@@ -6,4 +6,5 @@
     - better infrastructure for test and checks
     - better support in command line tools
     - better documentation tool
+    - better specification
 - Bug reports should go to [lampepfl/dotty](https://github.com/lampepfl/dotty).
